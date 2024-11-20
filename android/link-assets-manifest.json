@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/WeblySleekUI/weblysleekuil.ttf",
+      "sha1": "84ebb1387bc93b3930b82a6826cd274a545bbc47"
+    },
+    {
+      "path": "src/assets/fonts/WeblySleekUI/weblysleekuili.ttf",
+      "sha1": "04ff5f6370028a935b8d74a13e977948f0b3ee28"
+    },
+    {
+      "path": "src/assets/fonts/WeblySleekUI/weblysleekuisb.ttf",
+      "sha1": "c252accc432d23d8dbc0b138fecffc5693f9fe9c"
+    },
+    {
+      "path": "src/assets/fonts/WeblySleekUI/weblysleekuisbi.ttf",
+      "sha1": "8c668de55e4521e3b1a7dc47c72875b0142d59ff"
+    },
+    {
+      "path": "src/assets/fonts/WeblySleekUI/weblysleekuisl.ttf",
+      "sha1": "9b62032bb8b79be11473355aade720c5929338a4"
+    },
+    {
+      "path": "src/assets/fonts/WeblySleekUI/weblysleekuisli.ttf",
+      "sha1": "e65f3894acbf8f169843233cf164d8c87accf805"
+    }
+  ]
+}

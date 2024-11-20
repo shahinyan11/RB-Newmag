@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500185245777",
+    "project_id": "newmag-app",
+    "storage_bucket": "newmag-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500185245777:android:8390bbeffbf37df1df7070",
+        "android_client_info": {
+          "package_name": "com.newmag"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYJREhnKSBJcIdy-L2M8lTzqc3UX08yDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

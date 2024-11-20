@@ -1,0 +1,89 @@
+{
+  "splash": {
+    "publishingHouse": "Publishing house"
+  },
+  "auth": {
+    "signIn": "Sign in",
+    "password": "Password",
+    "yourEmail": "Your Email",
+    "forgotQuestion": "Forgot password?",
+    "dontHaveAccount": "Don't have a account?",
+    "signUp": "Sign up",
+    "name": "Name",
+    "surname": "Surname",
+    "email": "E-mail",
+    "phone": "Phone number",
+    "confirmPassword": "Re-Enter Password",
+    "agreement": "I read and agree with the website\n<linkTag>general provisions and conditions</linkTag> *",
+    "forgotPassword": "Forgot Password",
+    "sendMeLink": "Send me forgot link",
+    "successSentTitle": "We have sent a link to reset your password",
+    "successSentDesc": "Check the mailbox you specified earlier",
+    "enterNewPassword": "Enter new password",
+    "applyNewPassword": "Apply new password",
+    "passwordUpdated": "Your password has been successfully updated",
+    "youCanSignIn": "You can Sign in"
+  },
+  "messages": {
+    "missingValue": "You have not completed all the fields",
+    "notMatchPassword": "Passwords do not match",
+    "didNotFind": "Unfortunately,\nwe did not find any matches"
+  },
+  "tabs": {
+    "home": "Home",
+    "books": "Books",
+    "audioBooks": "Audiobooks",
+    "news": "News",
+    "podcast": "Podcast"
+  },
+  "inputLabels": {
+    "name": "Name",
+    "surname": "surname",
+    "email": "E-mail",
+    "phoneNumber": "Phone Number",
+    "password": "Password",
+    "reEnterPassword": "Re-Enter Password"
+  },
+  "validations": {
+    "passwordNotMatch": "Passwords do not match",
+    "notCompletedAllFields": "You have not completed all the fields"
+  },
+  "button": {
+    "playDemo": "Play demo",
+    "buy": "Գնել"
+  },
+  "common": {
+    "stories": "Stories",
+    "trendingBooks": "Trending books",
+    "allBooks": "All books",
+    "allAudioBooks": "All audiobooks",
+    "podcast": "Podcast",
+    "allPodcasts": "All podcasts",
+    "recommendedPodcasts": "Recommended podcasts",
+    "recommendedChannels": "Recommended channels",
+    "price": "Price",
+    "lastNews": "Last news",
+    "allNews": "All news",
+    "episode": "Episode",
+    "notifications": "Notifications",
+    "new": "New",
+    "history": "History",
+    "notRead": "Not read",
+    "shopBooks": "Shop books",
+    "freeBooks": "Free books",
+    "searchBooks": "Search books",
+    "author": "Հեղինակ",
+    "category": "Category",
+    "select": "Select",
+    "selectAuthor": "Select author",
+    "selectCategory": "Select category",
+    "showAll": "Show all",
+    "printedBook": "Printed book",
+    "digitalBook": "Digital book",
+    "description": "Նկարագրություն",
+    "additionalInfo": "Լրացուցիչ տեղեկություն",
+    "bookTrailer": "Գրքի թրեյլեր",
+    "seeAlso": "Տես նաև",
+    "orders": "Պատվերներ"
+  }
+}

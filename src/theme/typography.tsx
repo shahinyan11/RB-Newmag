@@ -1,0 +1,6 @@
+export const FONT_WEBLYSLEEK_UI_LIGHT = 'weblysleekuil'
+export const FONT_WEBLYSLEEK_UI_LIGHT_ITALIC = 'weblysleekuili'
+export const FONT_WEBLYSLEEK_UI_SEMI_BOLD = 'weblysleekuisb'
+export const FONT_WEBLYSLEEK_UI_SEMI_BOLD_ITALIC = 'weblysleekuisbi'
+export const FONT_WEBLYSLEEK_UI_SEMI_LIGHT = 'weblysleekuisl'
+export const FONT_WEBLYSLEEK_UI_SEMI_LIGHT_ITALIC = 'weblysleekuisli'
